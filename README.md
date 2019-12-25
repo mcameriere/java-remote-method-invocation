@@ -10,8 +10,8 @@ Java RMI
 
 ## Compile
 
-javac -d classes RemoteService.java
-javac -d classes RemoteClient.java
+    javac -d classes RemoteService.java
+    javac -d classes RemoteClient.java
 
 ## Launch
 
