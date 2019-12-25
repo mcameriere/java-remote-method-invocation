@@ -2,6 +2,10 @@
 
 Java RMI
 
+## Create subfolder classes
+
+    $ mkdir classes
+
 ## Implement
 
 - Create interface **IRemoteService.java**
