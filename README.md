@@ -4,9 +4,9 @@ Java RMI
 
 ## Implement
 
-- Create interface IRemoteService.java
-- Create server RemoteService.java
-- Create client RemoteClient.java
+- Create interface **IRemoteService.java**
+- Create server **RemoteService.java**
+- Create client **RemoteClient.java**
 
 ## Compile
 
